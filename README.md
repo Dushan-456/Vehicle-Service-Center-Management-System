@@ -40,11 +40,16 @@ You can check out a live demo of the project here: [Live Demo Link](https://test
 
 ## Screenshots
 
-### 1. Vehicle Entry Form
-![Vehicle Entry Form](path/to/vehicle-entry.png)
+![Home](https://github.com/Dushan-456/Vehicle-Service-Center-Management-System/blob/main/Sample%20Images/Screenshot%202024-09-16%20225413.png)
 
-### 2. Service History Page
-![Service History Page](path/to/service-history.png)
+![All Vehicles](https://github.com/Dushan-456/Vehicle-Service-Center-Management-System/blob/main/Sample%20Images/Screenshot%202024-09-16%20225425.png)
 
-### 3. Add New Service Record
-![Add New Service Record](path/to/add-service.png)
+![Home](https://github.com/Dushan-456/Vehicle-Service-Center-Management-System/blob/main/Sample%20Images/Screenshot%202024-09-16%20225443.png)
+
+![Home](https://github.com/Dushan-456/Vehicle-Service-Center-Management-System/blob/main/Sample%20Images/Screenshot%202024-09-16%20225455.png)
+
+![Home](https://github.com/Dushan-456/Vehicle-Service-Center-Management-System/blob/main/Sample%20Images/Screenshot%202024-09-16%20225505.png)
+
+![Home](https://github.com/Dushan-456/Vehicle-Service-Center-Management-System/blob/main/Sample%20Images/Screenshot%202024-09-16%20225515.png)
+
+
