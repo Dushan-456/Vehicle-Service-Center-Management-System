@@ -21,16 +21,7 @@ This web application is designed to help vehicle service centers manage their op
 - **Database**: MySQL (for storing vehicle and service data)
 - **Version Control**: Git (GitHub)
 
-## Screenshots
 
-### 1. Vehicle Entry Form
-![Vehicle Entry Form](path/to/vehicle-entry.png)
-
-### 2. Service History Page
-![Service History Page](path/to/service-history.png)
-
-### 3. Add New Service Record
-![Add New Service Record](path/to/add-service.png)
 
 ## Challenges and Solutions
 
@@ -42,12 +33,18 @@ This web application is designed to help vehicle service centers manage their op
 
 ## Demo
 
-You can check out a live demo of the project here: [Live Demo Link](#)
+You can check out a live demo of the project here: [Live Demo Link](https://test.techlabsoftwaresolution.com/)
 
-## GitHub Repository
 
-Feel free to explore the source code on GitHub: [GitHub Repository Link](#)
 
-## Client Perspective
 
-The application significantly improves the workflow of a vehicle service center, allowing the owner to easily manage vehicle records and track service details, leading to better customer service and operational efficiency.
+## Screenshots
+
+### 1. Vehicle Entry Form
+![Vehicle Entry Form](path/to/vehicle-entry.png)
+
+### 2. Service History Page
+![Service History Page](path/to/service-history.png)
+
+### 3. Add New Service Record
+![Add New Service Record](path/to/add-service.png)
